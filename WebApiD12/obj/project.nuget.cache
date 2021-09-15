@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "npDbfe9JgtcwdeGAa0EFzJAvPycqps+7AX+DQAuSiKyDA0/MkLHpMQZULH/XEUC0PoTs6lBpcdyDVIxjQleD2A==",
+  "success": true,
+  "projectFilePath": "E:\\VSPROJECTS\\repos\\Stage-4\\WebApiD12\\WebApiD12\\WebApiD12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
